@@ -8,41 +8,41 @@ Here are some images that are within each button on the page;
 
 #
 Home;
-<img align="" src="" width="900px"/>
+<img align="center" src="Images My Components/Images Home.png" width="900px"/>
 
 #
 
 #
 Typography;
-<img align="" src="" width="900px"/>
+<img align="center" src="Images My Components/Tipografia.png" width="900px"/>
 
 #
 
 #
 Cards;
-<img align="" src="" width="900px"/>
+<img align="center" src="Images My Components/Cards.png" width="900px"/>
 
 #
 
 #
 Lists;
-<img align="" src="" width="900px"/>
+<img align="center" src="Images My Components/Listas.png" width="900px"/>
 #
 
 #
 Forms;
-<img align="" src="" width="900px"/>
+<img align="center" src="Images My Components/Formulário.png" width="900px"/>
 #
 
 #
 Buttons;
-<img align="" src="" width="900px"/>
+<img align="center" src="Images My Components/Botoes.png" width="900px"/>
 
 #
 
 #
 Tables; 
-<img align="" src="" width="900px"/>
+<img align="center" src="Images My Components/Tabelas.png" width="900px"/>
 #
 
 # Code Snippet 💻
@@ -51,13 +51,13 @@ Snippet of code in HTML and CSS.
 
 #
 HTML
-<img align="" src="" width="900px"/>
+<img align="center" src="Images My Components/Trecho HTML.png" width="900px"/>
 
 #
 
 #
 CSS
-<img align="" src="" width="900px"/>
+<img align="center" src="Images My Components/Trecho CSS.png" width="900px"/>
 #
 
 # Project Link 📲
